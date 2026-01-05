@@ -1,0 +1,5 @@
+
+flask
+flask-sqlalchemy
+gunicorn
+pg8000  # or pymysql if using MySQL
